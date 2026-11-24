@@ -1,6 +1,6 @@
 # DeepTutor — Alan Vo
 
-Current version: `1.1.0`.
+Current version: `1.2.0`.
 
 > Work in progress. This checkpoint may be incomplete or fail tests. See PLAN.md and STATUS.md before use.
 
@@ -55,14 +55,14 @@ curl -s http://localhost:8001
 - **Multi-user Support**: Learner, Admin, and Guardian accounts
 - **Modular Architecture**: Pluggable modules for extensibility
 
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for setup and coding standards.
-
 ## Contact
 
 Alan Vo (openhands@all-hands.dev)
 https://alanvo.net
+
+[X: @alanvoasi](https://x.com/alanvoasi)
+
+---
 
 ## Repository Information
 
@@ -73,6 +73,6 @@ https://alanvo.net
 
 ---
 
-Alan Vo · [X: @alanvoasi](https://x.com/alanvoasi)
+Alan Vo · [alanvo.net](https://alanvo.net) · [X: @alanvoasi](https://x.com/alanvoasi)
 
 Maintainer: Alan Vo <alanvo@gmail.com>
